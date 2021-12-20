@@ -1,6 +1,5 @@
 # trojan-web
 
-[trojan管理程序](https://github.com/Jrohy/trojan)前端页面  
 
 技术栈: vue3.0 + element-plus + vite
 
